@@ -4,7 +4,7 @@
 ### Fill in paths to relevant folders
 
 # Path to R Packages
-# .libPaths("C:/Users/id094328/R/Packages")
+.libPaths("/home/klaas/R/x86_64-pc-linux-gnu-library/3.3")
 
 # Path to files
 # path <- 'C:/Users/id094328/Desktop/Dengue'
